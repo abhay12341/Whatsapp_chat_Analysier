@@ -1,9 +1,7 @@
-pandas
-matplotlib.pyplot
-seaborn
-URLExtract
-WordCloud
-Counter
-emoji
-re
 streamlit
+matplotlib
+seaborn
+urlextract
+wordcloud
+pandas
+emoji
